@@ -13,7 +13,22 @@ $ npm install cardno
 
 ## Example
 
-## Usage
+```js
+var cardno = require('./');
+
+var no = '4111111111111111';
+
+no2 = '4111-1111-1111-1111';
+
+console.log(cardno.validate(no));
+// ==> true
+
+console.log(cardno.is(no))
+// ==> Visa
+
+console.log(cardno.normalize(no2))
+// ==> 4111111111111111
+```
 
 ## License
 
