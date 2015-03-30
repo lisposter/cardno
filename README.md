@@ -11,6 +11,12 @@ analyze creditcard number
 $ npm install cardno
 ```
 
+or
+
+```bash
+$ bower install cardno
+```
+
 ## Example
 
 ```js
