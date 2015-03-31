@@ -36,6 +36,12 @@ console.log(cardno.normalize(no2))
 // ==> 4111111111111111
 ```
 
+if you want to use this in browsers, you may need reference the lib to your html
+
+```html
+<script src="/path/to/cardno/index.js"></script>
+```
+
 ## License
 
 MIT © [Leigh Zhu](#)
