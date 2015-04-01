@@ -2,7 +2,7 @@
   "name": "cardno",
   "version": "0.1.0",
   "description": "analyze creditcard number",
-  "main": "index.js",
+  "main": "lib/cardno.js",
   "dependencies": {
   },
   "devDependencies": {
