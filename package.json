@@ -3,12 +3,11 @@
   "version": "0.2.0",
   "description": "analyze creditcard number",
   "main": "lib/cardno.js",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "istanbul": "^0.3.2",
-    "mocha": "^1.21.5",
-    "should": "^4.0.4"
+    "istanbul": "^0.3.13",
+    "mocha": "^2.2.4",
+    "should": "^6.0.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +20,12 @@
     "url": "https://github.com/lisposter/cardno/issues"
   },
   "homepage": "https://github.com/lisposter/cardno",
-  "keywords": ["creditcard","parser","visa","mastercard"],
+  "keywords": [
+    "creditcard",
+    "parser",
+    "visa",
+    "mastercard"
+  ],
   "author": "Leigh Zhu",
   "license": "MIT"
 }
