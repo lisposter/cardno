@@ -1,0 +1,23 @@
+{
+  "name": "cardno",
+  "version": "0.2.0",
+  "homepage": "https://github.com/lisposter/cardno",
+  "authors": [
+    "Leigh Zhu <i@zhuli.me>"
+  ],
+  "description": "analyze creditcard number",
+  "main": "lib/cardno.js",
+  "keywords": [
+    "card",
+    "visa",
+    "creditcard"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
