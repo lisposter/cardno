@@ -1,5 +1,6 @@
 # cardno
 [![NPM version](https://img.shields.io/npm/v/cardno.svg?style=flat)](https://www.npmjs.org/package/cardno)
+[![Build status](https://img.shields.io/travis/lisposter/cardno.svg?style=flat-square)](https://travis-ci.org/lisposter/cardno)
 
 analyze creditcard number
 
